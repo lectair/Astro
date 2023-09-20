@@ -1,5 +1,8 @@
 # Astro
 
+An easy way to interact with GPT in your scripts obtaining reliable outputs.
+You can easily pass arguments and motivations to GPT and it will do what your software needs.
+
 Work in progress.
 
 Sample Code:
