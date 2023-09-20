@@ -2,6 +2,7 @@
 
 An easy way to interact with GPT in your scripts obtaining reliable outputs.
 You can easily pass arguments and motivations to GPT and it will do what your software needs.
+This is useful for many applications, such as videogames, code generator/corrector, information handling, etc.
 
 Work in progress.
 
